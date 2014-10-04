@@ -46,7 +46,7 @@ public class OCHL implements PlotType{//extends PlotType {
 		construct(screenControl, yBorder);
 	    
 	    //XAxisBasisAtTop xaxis = new XAxisBasisAtTop(g2D, yMin+20,(Stock)loopBack.get(screenControl.getIndex()), loopBack );
-	    //draw.
+
 	    //plots.add(xaxis);
 		
 	}
